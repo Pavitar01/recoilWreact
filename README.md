@@ -1,5 +1,5 @@
-**Recoil State Management**
-![Counter Example]([./images/counter-example.png](https://th.bing.com/th/id/OIP.veejFWIyo52F36DNzMvgZgHaCn?rs=1&pid=ImgDetMain))
+## Recoil State Management
+![Recoil with react](https://th.bing.com/th/id/OIP.veejFWIyo52F36DNzMvgZgHaCn?rs=1&pid=ImgDetMain)
 ### Overview
 
 Recoil is a state management library for React applications developed by Facebook. It provides a simple and efficient way to manage the state of your React components, offering features like state composition, selectors, and asynchronous updates. Recoil aims to solve the challenges of managing complex state in large-scale applications by providing a predictable and scalable solution.
